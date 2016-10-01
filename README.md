@@ -8,6 +8,9 @@
 
 **Score**: Maximum Score
 
+## About
+Car rental application. 
+
 ## Meta data of the car rental agency repositories
 
 * [Java Remote Method Invocation (RMI) 1](https://github.com/matt77hias/JavaRMI1)
