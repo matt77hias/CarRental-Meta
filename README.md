@@ -9,7 +9,7 @@
 **Score**: Maximum Score
 
 ## About
-Car rental application. 
+Multiple car rental applications using Java RMI, Java EE, JPA, JTA, JPQL, Google App Engine, Servlets and JSPs.
 
 ## Meta data of the car rental agency repositories
 
