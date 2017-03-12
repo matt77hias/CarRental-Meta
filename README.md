@@ -1,4 +1,4 @@
-# meta-carrental
+# CarRental-Meta
 
 **Team**:
 * [Matthias Moulin](https://github.com/matt77hias) (Computer Science)
